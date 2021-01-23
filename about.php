@@ -1,0 +1,17 @@
+<div class="about-section">
+<link rel="stylesheet" href="about.css">
+  <h1> Hi Folks, This website was created by ,
+        <h2>Aniket Shukla</h2>
+		<h3> A Ordinary Guy Who wants to do Extraordinary Things </h3>
+		<h3> A Sic Mundus of House "Lannister"
+        <p class="title">Student & Troublemaker</p>
+        <p></p>
+        <p>anshuaniket1404@gmail.com</p>
+		<a href = "mailto:anshuaniket1404@gmail.com?subject=Feedback&body =Message">
+		Send Feedback</a>
+		<!-- footer -->
+		<?php include(  'footer.php') ?>
+		<!-- // footer -->
+      </div>
+    </div>
+  </div>
